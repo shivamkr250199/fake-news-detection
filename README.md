@@ -22,7 +22,7 @@ This app uses:
 > Try it yourself!  
 Enter a news statement and click **"Check News"** to know if it's **Real** or **Fake**.
 
-![demo gif or screenshot here]
+![]
 
 ---
 
