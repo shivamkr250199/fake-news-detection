@@ -5,6 +5,8 @@ A simple yet powerful web app that detects whether a news headline or content is
 
 🚀 Hosted on [Render](https://render.com)
 
+render link[https://fake-news-detection-12.onrender.com]
+
 ---
 
 ## 🧠 How It Works
